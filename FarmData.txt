@@ -1,3 +1,0 @@
-SMART FARM MANAGEMENT SYSTEM
-Crop Name: Wheat, Area: 5 acres, Season: Rabi, Total Yield: 100
-Crop Name: Tomato, Area: 3 acres, Season: Kharif, Total Yield: 45
